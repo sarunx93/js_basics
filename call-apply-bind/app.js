@@ -1,5 +1,3 @@
-//call, bind and apply are object methods that are used for tieing up a function to an object an call the function as if it belongs to that object.
-
 // call - runs instantly, arguments - list of items
 // we can do it in 2 ways.
 // 1. use the function defined inside an object
